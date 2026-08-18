@@ -22,7 +22,7 @@ This project analyzes motor vehicle theft data to answer critical business quest
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 motor-vehicle-theft/
@@ -49,7 +49,7 @@ The analysis uses three core tables:
 4. **Regional Analysis** - Absolute counts and per capita normalization
 5. **Visualization** - Custom matplotlib charts with multiple perspectives
 
-## 📊 Dataset Summary
+##  Dataset Summary
 
 - **Total Vehicles Analyzed:** 4,538
 - **Regions Covered:** 16 New Zealand regions
@@ -65,7 +65,5 @@ The analysis uses three core tables:
 ## Contact
 
 For questions, suggestions, or collaboration opportunities, please open an issue or reach out via GitHub.
-
----
 
 **Last Updated:** August 2026
