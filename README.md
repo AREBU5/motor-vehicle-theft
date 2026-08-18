@@ -65,5 +65,3 @@ The analysis uses three core tables:
 ## Contact
 
 For questions, suggestions, or collaboration opportunities, please open an issue or reach out via GitHub.
-
-**Last Updated:** August 2026
